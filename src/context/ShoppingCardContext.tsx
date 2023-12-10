@@ -80,7 +80,7 @@ export function ShoppingCartProvider({ children }: shoppingCartProviderProps) {
   }
 
   function removeFromCart(id: number) {
-    setCartItems((currentItems) => {
+    setCartItems(() => {
       return cartItems.filter((item) => item.id !== id);
     });
   }
