@@ -15,7 +15,7 @@
         "id": 3,
         "name": "Banana",
         "price": 1.05,
-        "imgUrl": "/images/banana.jpg"
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp1sh4IwEBF62K07LWi7kVR2O5INmKxQ7kRvmEw-9TwWd6bjATuoVVV9If5HCOPzwjWY&usqp=CAU"
     },
     {
         "id": 4,
