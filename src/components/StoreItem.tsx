@@ -57,7 +57,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
                   variant="danger"
                   size="sm"
                 >
-                  Romove
+                  Remove
                 </Button>
               </div>
             </div>
